@@ -1,3 +1,19 @@
+'''
+Estrutura IF/ELIF/ELSE:
+
+IF (condição):
+    # Executa este bloco se a condição for verdadeira.
+ELIF (outra condição):
+    # Executa este bloco se a condição anterior for falsa e esta nova condição for verdadeira.
+ELSE:
+    # Executa este bloco se nenhuma das condições anteriores for verdadeira.
+
+Observações:
+- Pode haver vários ELIFs;
+- O ELSE é opcional, mas só pode existir um;
+- A ordem das condições importa.
+'''
+
 import os
 import sys
 
