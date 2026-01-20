@@ -11,7 +11,23 @@ A organização pode evoluir com o tempo, mas inicialmente terá algo como:
 meus-estudos/
  ├── carreira-python/
  │     ├── exercicios/
+ │           ├── for_while.py
+ │           ├── funcoes_padrao.py
+ │           ├── funcoes.py
+ │           ├── if_elif_else.py
+ │           ├── listas_tuplas.py
+ │           ├── trabalhando_com_projetos.py
  │     ├── projetos/
+ │           ├── oo_sabor_express/
+ │                 ├── modelos/
+ │                 ├── app.py
+ │           ├── oo_sabor_express_venv_api/
+ │                 ├── venv/
+ │                 ├── app.py
+ │                 ├── main.py
+ │                 ├── requirements.txt
+ │           ├── aplicando_a_oo.py
+ │           ├── sabor_express.py
  └── README.md
 ```
 
