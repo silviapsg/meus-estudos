@@ -129,6 +129,7 @@ def atualizar_informacoes_estoque():
         "Caneta azul": 120, 
         "Borracha branca": 30 
     } 
+    print(f'Estoque: ')
     produto = input('Digite o nome do produto a ser atualizado: ')
 
     if produto in estoque:
